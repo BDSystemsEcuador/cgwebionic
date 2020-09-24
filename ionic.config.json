@@ -1,0 +1,7 @@
+{
+  "name": "cgweb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
